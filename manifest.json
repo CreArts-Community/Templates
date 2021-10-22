@@ -1,0 +1,8 @@
+{
+    "name": "CreArts | Channel-Names",
+    "version": "1.0.3",
+    "author": "CorellanStoma#1996",
+    "description": "Friends-Grid adds a grid view to the friends list.",
+    "license": "MIT",
+    "theme": "clients/vizality.css"
+}
