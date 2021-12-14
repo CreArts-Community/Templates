@@ -1,0 +1,8 @@
+{
+    "name": "Templates",
+    "version": "1.0.0",
+    "author": "CorellanStoma#1996",
+    "description": "a Theme Templates structure",
+    "license": "MIT",
+    "theme": "theme.css"
+}
